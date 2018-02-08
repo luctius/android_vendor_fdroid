@@ -1,2 +1,2 @@
 # F-Droid
--app/org.fdroid.fdroid_1001002.apk:app/F-Droid.apk;PRESIGNED
+-app/org.fdroid.fdroid_1000013.apk:app/F-Droid.apk;PRESIGNED
